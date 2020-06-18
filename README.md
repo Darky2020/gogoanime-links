@@ -13,8 +13,8 @@ This is a simple script that obtains links for mp4 files of anime episodes and s
 Run anime.py<br>
 Enter URL of your anime from <a href="gogoanime.io">gogoanime.io<a> (for example "https://www19.gogoanime.io/category/naruto")<br>
 Enter From which Episode upto which you want<br>
-Wait for script to execute.<br>
-Done.<br>
+Wait for script to execute<br>
+Done<br>
   
 # Additional info
 
