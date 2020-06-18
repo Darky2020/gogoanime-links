@@ -11,10 +11,10 @@ This is a simple script that obtains links for mp4 files of anime episodes and s
   
 # How to Use :
 
-Enter URL of your anime from <a href="gogoanime.io">gogoanime.io<a> (for example "https://www19.gogoanime.io/category/naruto")
-Enter From which Episode upto which you want
-Wait for script to execute.
-Done.
+Enter URL of your anime from <a href="gogoanime.io">gogoanime.io<a> (for example "https://www19.gogoanime.io/category/naruto")<br>
+Enter From which Episode upto which you want<br>
+Wait for script to execute.<br>
+Done.<br>
   
 # Additional info
 
